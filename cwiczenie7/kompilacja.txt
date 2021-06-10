@@ -1,0 +1,2 @@
+gcc -o pamiec_dzielona pamiec_dzielona.c semafory.c pamiec.c
+
